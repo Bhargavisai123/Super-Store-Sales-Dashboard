@@ -113,9 +113,3 @@ Data Analyst
 ---
 
 ⭐ If you found this project useful, consider giving the repository a star!
-
-🔗 GitHub: [github.com/Bhargavisai123](https://github.com/Bhargavisai123)
-
----
-
-⭐ If you found this project useful, consider giving the repository a star!
