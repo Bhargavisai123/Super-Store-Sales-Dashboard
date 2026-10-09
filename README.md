@@ -2,8 +2,6 @@
 
 An interactive Power BI dashboard that analyzes Super Store sales performance across time, geography, customer segments, product categories, and shipping modes — giving decision-makers a single-page view of how the business is performing against its sales target.
 
-![Dashboard Preview](Sales_Dashboard.png)
-
 ---
 
 ## 📌 Project Overview
@@ -109,6 +107,12 @@ The goal of this project is to turn raw retail transaction data into clear, acti
 
 **Bhargavi Sai Jakkana**
 Data Analyst
+
+🔗 GitHub: [github.com/Bhargavisai123](https://github.com/Bhargavisai123)
+
+---
+
+⭐ If you found this project useful, consider giving the repository a star!
 
 🔗 GitHub: [github.com/Bhargavisai123](https://github.com/Bhargavisai123)
 
